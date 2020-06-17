@@ -6,6 +6,7 @@ public class Test {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("githubテスト");
 		System.out.println("テスト確認");
+		System.out.println("やあやあ(^_-)-☆");
 	}
 
 }
